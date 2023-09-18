@@ -13,11 +13,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        // text: '가이드 문서',
+        text: '가이드 문서', link: '/guide/' ,
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'test Examples', link: '/test' },
+          { text: 'How To Use', link: '/guide/how-to-use' },
         ],
       },
     ],

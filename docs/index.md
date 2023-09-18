@@ -8,6 +8,9 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
+      text: 참고 가이드
+      link: /guide/
+    - theme: alt
       text: Markdown Examples
       link: /markdown-examples
     - theme: alt
