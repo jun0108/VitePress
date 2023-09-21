@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "sass": "^1.68.0",
-    "vitepress": "1.0.0-rc.13"
+    "vitepress": "1.0.0-rc.15"
   },
   "scripts": {
     "dev": "vitepress dev docs",
@@ -9,5 +9,8 @@
     "preview": "vitepress preview docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "unplugin-auto-import": "^0.16.6"
   }
 }
