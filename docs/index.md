@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "준영's 절망기술블로그"
+  name: "준영's 행복기술블로그"
   text: 'A VitePress Site'
   tagline: My great project tagline
   actions:
