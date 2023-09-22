@@ -1,1 +1,8 @@
-$test: #eeeeee;
+.btn {
+	&__test {
+	  padding: 3px 8px;
+	  border: 1px solid black;
+	  border-radius: 8px;
+	  background: $test;
+	}
+}

@@ -42,13 +42,5 @@ const count = ref(0)
 ```
 
 <style lang="scss">
-  
-.btn {
-	&__test {
-	  padding: 3px 8px;
-	  border: 1px solid black;
-	  border-radius: 8px;
-	  background: $test;
-	}
-}
+
 </style>

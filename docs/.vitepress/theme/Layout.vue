@@ -3,7 +3,8 @@ import { useData } from 'vitepress'
 
 import DefaultTheme from 'vitepress/theme'
 import NotFound from './404.vue'
-import './style.css'
+
+import '/./styles/common.scss'
 
 const { Layout } = DefaultTheme
 const { page, frontmatter } = useData()

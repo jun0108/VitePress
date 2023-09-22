@@ -41,7 +41,7 @@ export default defineConfig({
       preprocessorOptions: {
         scss: {
          // 전역 SCSS 파일 경로를 지정합니다.
-          additionalData: '@import "docs/styles/common.scss";',
+          additionalData: '@import "docs/styles/_variables.scss";',
         },
       }
     }
