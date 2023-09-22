@@ -4,7 +4,7 @@ import AutoImport from 'unplugin-auto-import/vite'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: '준영이의 해피해피 기술블로그',
-  description: 'A VitePress Site',
+  description: 'With VitePress',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -15,7 +15,7 @@ export default defineConfig({
     sidebar: [
       {
         // text: '가이드 문서',
-        text: '가이드 문서', link: '/guide/' ,
+        text: 'Guide', link: '/guide/' ,
         items: [
           { text: 'How To Use', link: '/guide/how-to-use' },
         ],

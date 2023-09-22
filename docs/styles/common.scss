@@ -1,3 +1,13 @@
+.VPHome {
+	.VPHomeHero {
+		.name {
+			@media (min-width: 640px) {
+				max-width: 100%;
+			}
+		}
+	}
+}
+
 .btn {
 	&__test {
 	  padding: 3px 8px;

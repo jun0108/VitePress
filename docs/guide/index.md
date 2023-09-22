@@ -1,7 +1,9 @@
 <script setup lang="ts">
 
 </script>
-# VitePress ?
+
+# `VitePress`를 알아 보아요
+## `VitePress`?
 
 - `Vue.js` 기반의 SSG(Static-Site-Generation)로써 Vue.js 공식문서에서도 쓰이고 있습니다.
 - [공식 문서](https://vitepress.dev/)

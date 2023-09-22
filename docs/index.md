@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "준영's 행복기술블로그"
-  text: 'A VitePress Site'
-  tagline: My great project tagline
+  name: "준영's 🔥행복🔥기술 블로그"
+  text: 'With VitePress'
+  tagline: 같이 만들어 보아요 😉
   actions:
     - theme: brand
       text: 참고 가이드
