@@ -5,6 +5,7 @@ import AutoImport from 'unplugin-auto-import/vite'
 export default defineConfig({
   title: '준영이의 해피해피 기술블로그',
   description: 'With VitePress',
+  titleTemplate: 'tech-blog',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
